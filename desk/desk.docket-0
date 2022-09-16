@@ -3,8 +3,8 @@
   info+'A peer-to-peer marketplace.'
   color+0x2e.4347
   version+[0 0 1]
-  website+''
+  website+'github.com/MarcusMiguel/classifieds'
   license+''
   base+'classifieds'
-  glob-http+['https://bootstrap.urbit.org/glob-0v5.hurm4.ejod5.ngg9h.iub9i.n1j7o.glob' 0v5.hurm4.ejod5.ngg9h.iub9i.n1j7o]
+  glob-ames+[~zod 0v0]
 ==
